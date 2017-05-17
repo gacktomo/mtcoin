@@ -1,0 +1,5 @@
+Building MTcoin
+
+See doc/build-*.md for instructions on building mtcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MTcoin.

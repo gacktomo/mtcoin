@@ -1,0 +1,6 @@
+usr/local/bin/mtcoin-qt usr/bin
+share/pixmaps/mtcoin32.xpm usr/share/pixmaps
+share/pixmaps/mtcoin16.xpm usr/share/pixmaps
+share/pixmaps/mtcoin128.png usr/share/pixmaps
+debian/mtcoin-qt.desktop usr/share/applications
+debian/mtcoin-qt.protocol usr/share/kde4/services/

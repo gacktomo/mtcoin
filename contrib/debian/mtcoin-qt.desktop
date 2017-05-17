@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MTcoin
+Comment=MTcoin P2P Cryptocurrency
+Comment[fr]=MTcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MTcoin, eşten eşe kriptografik sanal para birimi
+Exec=mtcoin-qt %u
+Terminal=false
+Type=Application
+Icon=mtcoin128
+MimeType=x-scheme-handler/mtcoin;
+Categories=Office;Finance;
